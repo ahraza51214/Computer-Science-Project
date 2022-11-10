@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ahn/Documents/RUC/Kandidat/1 Semester/Project/Project portfolio 3/ProjectPortfolio3_Group11-master/ProjectPortfolio3_Group11-master/DataServiceLib/DataServiceLib.csproj": {}
+  },
+  "projects": {
+    "/Users/ahn/Documents/RUC/Kandidat/1 Semester/Project/Project portfolio 3/ProjectPortfolio3_Group11-master/ProjectPortfolio3_Group11-master/DataServiceLib/DataServiceLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahn/Documents/RUC/Kandidat/1 Semester/Project/Project portfolio 3/ProjectPortfolio3_Group11-master/ProjectPortfolio3_Group11-master/DataServiceLib/DataServiceLib.csproj",
+        "projectName": "DataServiceLib",
+        "projectPath": "/Users/ahn/Documents/RUC/Kandidat/1 Semester/Project/Project portfolio 3/ProjectPortfolio3_Group11-master/ProjectPortfolio3_Group11-master/DataServiceLib/DataServiceLib.csproj",
+        "packagesPath": "/Users/ahn/.nuget/packages/",
+        "outputPath": "/Users/ahn/Documents/RUC/Kandidat/1 Semester/Project/Project portfolio 3/ProjectPortfolio3_Group11-master/ProjectPortfolio3_Group11-master/DataServiceLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿ <div class="col-6">
+     <h3>Rating</h3>
+ </div>
+ <div class="row">
+     <div class="col-2">
+         <label data-bind="value: userId " required> </label>
+     </div>
+     <div class="col-4">
+         <input type="text" class="form-control" placeholder="Tconst" aria-label="Tconst" data-bind="value: tconst" required>
+     </div>
+     <div class="col-2">
+         <input type="text" class="form-control" placeholder="Rate" aria-label="Rate" data-bind="value: titleIndividRating" required>
+     </div>
+     <div class="d-grid gap-2 d-md-block">
+         <button type="submit" class="btn btn-primary" data-bind="click: createRating">Create Rating</button>
+         <button type="submit" class="btn btn-info" data-bind="click: getRating">Get Rating</button>
+     </div>
+ </div>
+
+ <div data-bind="text: responseMessage  "> </div>
+
+ <ul data-bind="foreach: ratings">
+     <li>
+         <h3>  <span data-bind="text:  'userid '+ userId + ' tConst: ' + tConst + ' rate: ' + titleIndividRating + ' Date: ' + userTitleRateDate"></span> </h3>
+     </li>
+ </ul>

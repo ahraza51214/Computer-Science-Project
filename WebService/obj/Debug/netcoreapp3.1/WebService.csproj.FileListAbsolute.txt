@@ -1,0 +1,326 @@
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.exe
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.deps.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.dev.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csprojAssemblyReference.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfoInputs.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfo.cs
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CoreCompileInputs.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.MvcApplicationPartsAssemblyInfo.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.RazorTargetAssemblyInfo.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CopyComplete
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.Manifest.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.xml
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.genruntimeconfig.cache
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.exe
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.deps.json
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.json
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.dev.json
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.pdb
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.pdb
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csprojAssemblyReference.cache
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfoInputs.cache
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfo.cs
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CoreCompileInputs.cache
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.RazorTargetAssemblyInfo.cache
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CopyComplete
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.Manifest.cache
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.xml
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.pdb
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.genruntimeconfig.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bob-w\Source\Repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio2_Group11\WebService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\appsettingsLocal.Development.json
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\appsettingsRaw11.json
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.exe
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.pdb
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csprojAssemblyReference.cache
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfoInputs.cache
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfo.cs
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CoreCompileInputs.cache
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.RazorTargetAssemblyInfo.cache
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CopyComplete
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.Manifest.cache
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.xml
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.pdb
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.deps.json
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.json
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.dev.json
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.dll
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.pdb
+C:\Users\bob-w\source\repos\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.genruntimeconfig.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\appsettingsLocal.Development.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\appsettingsRaw11.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\libman.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\WebService.exe
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\WebService.deps.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.dev.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\WebService.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\WebService.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.csprojAssemblyReference.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfoInputs.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfo.cs
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CoreCompileInputs.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.MvcApplicationPartsAssemblyInfo.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.RazorTargetAssemblyInfo.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CopyComplete
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.Manifest.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.xml
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\Project3\WebService\obj\Debug\netcoreapp3.1\WebService.genruntimeconfig.cache
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\appsettingsLocal.Development.json
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\appsettingsRaw11.json
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.exe
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.deps.json
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.json
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.dev.json
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\WebService.pdb
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.pdb
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfo.cs
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.xml
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebService.styles.css
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CopyComplete
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.dll
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.pdb
+C:\Users\HP\Desktop\posledno\ProjectPortfolio3_Group11\WebService\obj\Debug\netcoreapp3.1\WebService.genruntimeconfig.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\appsettingsLocal.Development.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\appsettingsRaw11.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\libman.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\WebService.exe
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\WebService.deps.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\WebService.runtimeconfig.dev.json
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\WebService.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\WebService.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\bin\Debug\netcoreapp3.1\DataServiceLib.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.csprojAssemblyReference.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfoInputs.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.AssemblyInfo.cs
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CoreCompileInputs.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.MvcApplicationPartsAssemblyInfo.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.RazorTargetAssemblyInfo.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.csproj.CopyComplete
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.Manifest.cache
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\staticwebassets\WebService.StaticWebAssets.xml
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.dll
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.pdb
+D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 3\ProjectPortfolio3_Group11-master\ProjectPortfolio3_Group11-master\WebService\obj\Debug\netcoreapp3.1\WebService.genruntimeconfig.cache

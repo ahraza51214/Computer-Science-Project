@@ -1,0 +1,10 @@
+
+<<<<<<< Updated upstream
+*.dll
+=======
+*.cache
+*.props
+>>>>>>> Stashed changes
+*.cache
+*.cache
+*.cache

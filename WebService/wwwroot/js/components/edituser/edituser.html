@@ -1,0 +1,29 @@
+﻿<form class="col-6">
+    <h3>Edit user</h3>
+    <div class="mb-3">
+        
+        <label data-bind="value: userId " required> </label>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <input class="form-control" data-bind="value: name" required>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Age</label>
+        <input class="form-control" data-bind="value: age" required>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Username</label>
+        <input class="form-control" data-bind="value: username" required>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Language</label>
+        <input class="form-control" data-bind="value: language" required>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Password</label>
+        <input type="password" class="form-control" data-bind="value: password" required>
+    </div>
+    <button type="submit" class="btn btn-warning" data-bind="click: updateUsers">Update User</button>
+    <button type="submit" class="btn btn-danger" data-bind="click: deleteUser">Delete User</button>
+</form>
