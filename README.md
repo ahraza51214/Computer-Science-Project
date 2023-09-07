@@ -3,8 +3,8 @@
 <br>
 Computer science project based on building an IMBD like web-page.
 <br>
-Backend: PostgreSQL, JavaScript, PHP
+Backend: PostgreSQL, JavaScript, PHP, C#
 <br>
-Frontend: C#, CSS, Knockout, Bootstrap, HTML
+Frontend: CSS, Knockout, Bootstrap, HTML
 <br>
 AJAX, RESTful API, ASP.NET
